@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<div> </div>
+
 <div align="left">
   <a href="https://twitter.com/haleem_yoosuph?t=ftiv_Ye4oG9_1IqZMxXUuw&s=09">  
     <img align="left" alt="Fred's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
@@ -31,7 +33,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<br>
 <br/>
 
 <div align="left">
