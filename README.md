@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 ##### Javascript Engineer | Web Scrapper
 ###  📫 How to reach me:
 
-<div>
-<a href="https://www.linkedin.com/in/halim-olamilekan-a541b4172">  
-  <img align="left" alt="Fred's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
- LinkedIn
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/halim-olamilekan-a541b4172">  
+    <img align="left" alt="Fred's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+   LinkedIn
+  </a>
 </div>
 
-<div>
-<a href="https://twitter.com/haleem_yoosuph?t=ftiv_Ye4oG9_1IqZMxXUuw&s=09">  
-  <img align="left" alt="Fred's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
- Twitter
-</a>
+<div align="left">
+  <a href="https://twitter.com/haleem_yoosuph?t=ftiv_Ye4oG9_1IqZMxXUuw&s=09">  
+    <img align="left" alt="Fred's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
+   Twitter
+  </a>
 </div>
 
 <br>
