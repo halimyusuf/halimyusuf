@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=halimyusuf&theme=dracula" />
 <br/>
 
-<a href="https://github.com/aframson">
+<a href="https://github.com/halimyusuf">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimyusuf&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a> 
 <br/>
